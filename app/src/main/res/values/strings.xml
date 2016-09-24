@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Questionario</string>
+    <string name="pergunta1">Já utilizou um computador?</string>
+    <string name="pergunta2">Possui um computador?</string>
+    <string name="pergunta3">Já utilizou um celular?</string>
+    <string name="pergunta4">Possui um celular?</string>
+    <string name="pergunta5">Já havia utilizado um smartphone?</string>
+    <string name="pergunta6">Possui um smartphone?</string>
+    <string name="pergunta7">Possui alguma dificuldade motora nas mãos ou nos braços?</string>
+    <string name="pergunta8">Possui alguma deficiência visual?</string>
+    <string name="pergunta9">Possui algum défict de memória?</string>
+</resources>
